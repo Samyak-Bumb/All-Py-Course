@@ -1,0 +1,12 @@
+print("Table of 5\n")
+
+print("1 =",5*1)
+print("2 =",5*2)
+print("3 =",5*3)
+print("4 =",5*4)
+print("5 =",5*5)
+print("6 =",5*6)
+print("7 =",5*7)
+print("8 =",5*8)
+print("9 =",5*9)
+print("10 =",5*10)
